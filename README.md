@@ -22,6 +22,7 @@ I'm actively building toward software engineering and full-stack internship oppo
 - Full-stack project experience across React, Next.js, Node.js, and TypeScript
 - Applied AI and machine learning work in healthcare and data-driven products
 - Experience building end-to-end projects from UI to APIs to deployment-ready code
+- Cloud and DevOps experience with AWS, Docker, Linux, and CI/CD automation
 - Open source contribution experience, including work in external engineering repos
 
 ## Selected Projects
@@ -52,26 +53,39 @@ Worked on machine learning for medical prediction and analysis, applying Python-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0ea5e9?style=flat-square&logo=fastapi&logoColor=white)
 
 ## Technical Skills
 
-**Languages:** TypeScript, JavaScript, Python, Java  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express  
-**Mobile:** React Native  
-**Data / AI:** TensorFlow, ML workflows  
-**Tools:** Git, GitHub, REST APIs
+**Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, HTML5, CSS3  
+**Frontend:** React.js, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, RESTful API design, JWT authentication, WebSockets  
+**Cloud / DevOps:** AWS, Docker, Docker Compose, GitHub Actions CI/CD, Linux, Shell scripting  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Data / AI:** Pandas, NumPy, TensorFlow, NLP, feature engineering, model training and evaluation, data cleaning and transformation  
+**Practices:** OOP, data structures and algorithms, Agile/Scrum, SDLC, system design, TDD, JUnit, unit and integration testing, code reviews, secure API practices, technical documentation, Postman
 
 ## Current Work
 
