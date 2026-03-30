@@ -79,11 +79,6 @@ Worked on machine learning for medical prediction and analysis, applying Python-
 - Expanding AI and healthcare-oriented project work
 - Contributing to collaborative and open source engineering projects
 
-## GitHub Snapshot
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matingathani&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matingathani&layout=compact&hide_border=true)
-
 ## Connect
 
 - Portfolio: [matingathani.me](https://www.matingathani.me)
