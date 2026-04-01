@@ -6,9 +6,9 @@
 
 Computer Science student at Arizona State University focused on software engineering, full-stack development, and AI-powered applications. I build practical products across web, mobile, and cloud systems, with an emphasis on clean user experience and reliable backend architecture.
 
-## Internship Focus
+## Focus
 
-I'm actively building toward software engineering and full-stack internship opportunities where I can contribute to product development, backend systems, frontend experiences, or applied AI features.
+I'm actively building toward software engineering and full-stack opportunities where I can contribute to product development, backend systems, frontend experiences, or applied AI features.
 
 ## Quick Snapshot
 
